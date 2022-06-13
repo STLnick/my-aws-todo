@@ -1,5 +1,7 @@
 # my-aws-todo
 
+['Production' App](https://dev.d36ztcblq9efbr.amplifyapp.com/)
+
 ## Project setup
 ```
 yarn install
